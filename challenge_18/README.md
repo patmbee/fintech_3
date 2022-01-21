@@ -8,7 +8,7 @@ The following steps were completed with my usual technical acumen
 * Added User Inputs to the Steamlit Interface
 * Tested the PyChain Ledger by Storing Records
 
-## Images in Presentation
+## Streamlit screenshots
 #### Run the Streamlit application - streamlit run pychain.py
 <img src="./Images/Image3.png" width="700">
 
