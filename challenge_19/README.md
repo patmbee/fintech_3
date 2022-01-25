@@ -1,5 +1,5 @@
 # Module 19 Challenge
-This project contains a Fintech Finder application.
+This project contains a Fintech Finder application
 
 *  Generate a new Ethereum account instance by using a mnemonic seed phrase
 *  Fetch and display the account balance associated with an Ethereum account address
