@@ -33,12 +33,10 @@ You many find it helpful to use a Ethereum Unit Converter located here: [Convert
 <img src="./Execution_Results/5Eth_ContractBalance.png" width="700">
 
 ### Transaction 4: Withdraw 5 ether as Wei into Account One
- ** Please see the lastToWithdraw and lastWithdraw values
 <img src="./Execution_Results/withdraw5eth.png" width="700">
 
 
 ### Transaction 5: Withdraw 10 ether as Wei into Account Two
-** Note see lastToWithdraw and lastWithdraw values
 <img src="./Execution_Results/Withdraw10_Eth.png" width="700">
 
 
