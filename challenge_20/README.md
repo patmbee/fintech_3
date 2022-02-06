@@ -20,7 +20,7 @@ You many find it helpful to use a Ethereum Unit Converter located here: [Convert
 <img src="./Execution_Results/1EthAsWei.png" width="700">
 
 
-### Transaction Two: 1 Ether as Wei - Contract Balance
+### Transaction One continued: 1 Ether as Wei - Contract Balance
 <img src="./Execution_Results/1EthAsWeiContractBalance.png" width="700">
 
 ### Transaction Two: 10 Ether as Wei - Contract Balance
